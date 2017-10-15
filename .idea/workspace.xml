@@ -2,7 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4061c2f-690f-4853-aeaa-b0b966fdc905" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterLeft9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/ShooterRight9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/StarWars.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/cannonball.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/GameSingletonFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/GameWorld.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/IGame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/IGameTimerListenerClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/Planet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/Sound.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/gui/Bullet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/gui/Direction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/gui/Enemy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/gui/ISprite.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/gui/Player.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/gui/ShapeBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/gui/listener/OnKeyboardInputListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/gui/listener/OnMousePositionChangedListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/listener/OnGameLoopCompleteListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/physics/Physics.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/physics/Wind.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/scene/ExplosionSprite.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/scene/GamePlayScene.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/scene/IScene.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/scene/ISceneObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/scene/SceneBase$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/scene/SceneBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/scene/ScreenManager$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/scene/ScreenManager$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/scene/ScreenManager$ScreenList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/scene/ScreenManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/game/utility/Utility.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/com/bau/cmpe/main/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/explosion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/explosion2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/explosion3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/SuperShooterGame/explosion4.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/bau/cmpe/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -39,7 +116,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/bau/cmpe/game/GameWorld.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding>
                 <element signature="method#actionPerformed#0;class#GameWorld#0" expanded="false" />
               </folding>
@@ -51,7 +128,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/bau/cmpe/game/physics/Physics.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="38" column="40" lean-forward="true" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+              <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -71,7 +148,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/bau/cmpe/game/gui/Enemy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="8" column="67" lean-forward="true" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+              <caret line="8" column="67" lean-forward="false" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -91,7 +168,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/bau/cmpe/game/gui/Player.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+              <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -139,6 +216,10 @@
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -325,12 +406,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508060587690</updated>
-      <workItem from="1508060589436" duration="1271000" />
+      <workItem from="1508060589436" duration="1378000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1271000" />
+    <option name="totallyTimeSpent" value="1378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -374,7 +455,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/bau/cmpe/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -390,7 +471,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/bau/cmpe/game/GameWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding>
             <element signature="method#actionPerformed#0;class#GameWorld#0" expanded="false" />
           </folding>
@@ -416,7 +497,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/bau/cmpe/game/physics/Physics.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="38" column="40" lean-forward="true" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+          <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -432,7 +513,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/bau/cmpe/game/gui/Enemy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="8" column="67" lean-forward="true" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+          <caret line="8" column="67" lean-forward="false" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
           <folding />
         </state>
       </provider>
@@ -448,7 +529,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/bau/cmpe/game/gui/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
           <folding />
         </state>
       </provider>
