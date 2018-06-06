@@ -94,6 +94,11 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.bau.cmpe.main.Main" />
+      <module name="SuperShooterGame" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
